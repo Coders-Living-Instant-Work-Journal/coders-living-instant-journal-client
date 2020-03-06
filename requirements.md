@@ -40,7 +40,7 @@ This app will be lightweight, quick, and provided all the desired features of a 
 - A user can list out journal entries within some paramaters
 
 ### Data Flow
-
+![Data Path](./assets/coders-living-instant-work-journal-dom.jpeg) 
 
 
 Non-Functional Requirements 
