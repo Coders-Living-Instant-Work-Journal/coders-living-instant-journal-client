@@ -5,3 +5,8 @@ CLI-WJ is a an application that allows the user to create, read, update, and del
 - Eugene Monnier
 - Andrew Kyllo
 - Peter Cole
+
+## [Project Management Board](#https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-work-journal/projects/1)
+
+## Domain Model
+![CLI-WJ Domain Model](./assets/coders-living-instant-work-journal-dom.jpeg)
