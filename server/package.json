@@ -2,9 +2,9 @@
   "name": "cliwj_server",
   "version": "0.1.0",
   "description": "Server application for Coder's Living Instant Work Journal",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "dev": "nodemon index.js"
   },
   "keywords": [],
