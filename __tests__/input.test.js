@@ -10,6 +10,15 @@ describe('greetingMenu module', () => {
       inquirer.prompt = jest.fn().mockResolvedValue({ abc: 'def' })
       await expect(inquirer.prompt()).resolves.toEqual({ abc: 'def' });
     });
+    it('Properly hashes password before sending to API', async () => {
+      mockInput = {
+        new_user_email: 'k@f.com',
+        new_user_name: 'an dn',
+        new_user_password: 'password'
+      }
+      inquirer.prompt = jest.fin().mockResolvedValue(mockInput)
+      await expect(inquirer.prompt()).resolves
+    })
   });
   xdescribe('signIn()', () => {
     it('', () => {
