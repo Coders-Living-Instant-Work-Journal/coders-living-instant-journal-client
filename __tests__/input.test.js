@@ -20,7 +20,7 @@ describe('greetingMenu module', () => {
       await expect(inquirer.prompt()).resolves
     })
   });
-  xdescribe('signIn()', () => {
+  describe('signIn()', () => {
     it('', () => {
       
     });
