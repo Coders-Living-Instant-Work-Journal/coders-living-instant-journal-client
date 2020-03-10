@@ -10,7 +10,8 @@ __Authors__ Eugene Monnier, Andrew Kyllo, Peter Cole
 - `npm i -g` the CLIJ package
 - `clij` to start the app
 
-## [Project Management Board](#https://github.com/Coders-Living-Instant-Journal/coders-living-instant-journal/projects/1)
+## [Project Management Board](https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client/projects/1)
 
 ## Domain Model
 ![CLI-J Domain Model](./assets/coders-living-instant-journal-dom.jpeg)
+
