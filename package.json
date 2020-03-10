@@ -1,0 +1,30 @@
+{
+  "name": "coders-living-instant-journal-client",
+  "version": "1.0.0",
+  "description": "CLIJ Client App NPM Package",
+  "bin": {
+    "clij": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node ./lib/input.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client.git"
+  },
+  "author": "Eugene Monnier, Andrew Kyllo, Peter Cole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client/issues"
+  },
+  "homepage": "https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.6",
+    "jest": "^25.1.0",
+    "minimist": "^1.2.0",
+    "superagent": "^5.2.2"
+  }
+}
