@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client#readme",
   "dependencies": {
+    "base-64": "^0.1.0",
     "bcrypt": "^4.0.1",
     "chalk": "^3.0.0",
+    "file-system": "^2.2.2",
     "inquirer": "^7.0.6",
     "jest": "^25.1.0",
     "minimist": "^1.2.0",
