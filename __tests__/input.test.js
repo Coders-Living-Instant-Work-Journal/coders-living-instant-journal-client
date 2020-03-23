@@ -8,7 +8,7 @@ const { greeting, signUpPrompts, signInPrompts } = require('../lib/prompts')
 // USER
 describe('signUp() module', () => {
   describe('Register a new user', () => {
-    it('passes a new user to the API', () => {
+    it('passes a new user to the API', async () => {
       inquirer.prompt = jest.fn().mockResolvedValue({ abc: 'def' })
       await expect(inquirer.prompt()).resolves.toEqual({ abc: 'def' });
     });
