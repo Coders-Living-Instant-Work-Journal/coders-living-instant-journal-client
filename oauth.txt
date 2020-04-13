@@ -1,1 +1,1 @@
-{"token":"0f9087be3b74828b01c9373a4bad4050e2b916d8","email":null,"id":47996537,"login":"tylersayvetz","name":"Tyler S"}
+{"provider":"github","token":"e278cbc239904e7a93f3820c7b3363e8a739c151","email":null}
