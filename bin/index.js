@@ -1,4 +1,4 @@
 #!/usr/bin/env node
 
-const input = require('../lib/input');
+const input = require('../lib/input')
 // input;
