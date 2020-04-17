@@ -13,14 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client.git"
   },
-  "author": "Eugene Monnier, Andrew Kyllo, Peter Cole",
+  "author": "Eugene Monnier, Andrew Kyllo, Peter Cole, Cait Rowland, Kevin Dreyer, Susanna Lakey, Yler Sayvetz",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client/issues"
   },
   "homepage": "https://github.com/Coders-Living-Instant-Work-Journal/coders-living-instant-journal-client#readme",
   "dependencies": {
-    "base-64": "^0.1.0",
     "bcrypt": "^4.0.1",
     "chalk": "^3.0.0",
     "dotenv": "^8.2.0",
@@ -32,5 +31,8 @@
     "open": "^7.0.3",
     "simple-oauth2": "^3.4.0",
     "superagent": "^5.2.2"
+  },
+  "devDependencies": {
+    "standard": "^14.3.3"
   }
 }
